@@ -1,0 +1,5 @@
+C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.dll
+C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.pdb
+C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.csprojResolveAssemblyReference.cache
+C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.dll
+C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.pdb

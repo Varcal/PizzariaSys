@@ -1,0 +1,71 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#menu			{
+				float:left;
+				position:relative;
+				z-index:1001;
+				padding-top:10px;
+				}
+				
+#menu li		{
+				width:auto;
+				margin:0 1px 0 0;
+				padding:0;
+				float:left;
+				font:bold 1.2em/1.1em Arial, Helvetica, sans-serif;
+				background:none;
+				position:relative;
+				}
+
+#menu li a		{
+				width:auto;
+				height:37px;
+				margin:0;
+				padding:15px 18px 10px;
+				position:relative;
+				float:left;
+				color:#232323;
+				/*text-align:center;*/
+				text-decoration:none;
+				z-index:1000;
+				}
+				
+.menuslide		{
+				position:absolute;
+				z-index:999;
+				width:100%;
+				height:62px;
+				background:url(/images/menu_slide.gif) top repeat-x #404041;
+				display:none;
+				margin-top:-40px;
+				top:40px;
+				left:0;
+				}
+.menu_description {
+				display:block;
+				font:10px Arial, Helvetica, sans-serif;
+				color:#BEBEBE;
+				}
