@@ -26,3 +26,6 @@ C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\Pizzaria
 C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.csprojResolveAssemblyReference.cache
 C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.dll
 C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.csprojResolveAssemblyReference.cache
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.pdb

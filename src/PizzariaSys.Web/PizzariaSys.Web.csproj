@@ -20,6 +20,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -172,16 +173,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\PizzariaSys.AcessoDados\PizzariaSys.AcessoDados.csproj">
-      <Project>{da6d58e8-ed58-45dd-a84c-47fe86977e4a}</Project>
-      <Name>PizzariaSys.AcessoDados</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PizzariaSys.Dominio\PizzariaSys.Dominio.csproj">
-      <Project>{512faa98-dc66-4c15-9d2a-236d3c36b82b}</Project>
-      <Name>PizzariaSys.Dominio</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
