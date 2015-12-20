@@ -2,7 +2,7 @@
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using PizzariaSys.AcessoDados.Mapping;
-using PizzariaSys.Dominio;
+using PizzariaSys.Dominio.Entidades;
 
 
 namespace PizzariaSys.AcessoDados.Contexto

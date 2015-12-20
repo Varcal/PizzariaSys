@@ -103,3 +103,13 @@ C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\Pizzaria
 C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.csprojResolveAssemblyReference.cache
 C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.dll
 C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Web.dll.config
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Web.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Web.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.App.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Dominio.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.App.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Dominio.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.csprojResolveAssemblyReference.cache
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.pdb

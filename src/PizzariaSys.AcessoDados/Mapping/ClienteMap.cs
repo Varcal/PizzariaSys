@@ -1,6 +1,6 @@
 ﻿
 using System.Data.Entity.ModelConfiguration;
-using PizzariaSys.Dominio;
+using PizzariaSys.Dominio.Entidades;
 
 namespace PizzariaSys.AcessoDados.Mapping
 {

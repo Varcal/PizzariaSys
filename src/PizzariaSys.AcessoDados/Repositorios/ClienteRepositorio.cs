@@ -1,6 +1,6 @@
 ﻿
 using PizzariaSys.AcessoDados.Repositorios.Core;
-using PizzariaSys.Dominio;
+using PizzariaSys.Dominio.Entidades;
 using PizzariaSys.Dominio.Interfaces.Repositorios;
 
 

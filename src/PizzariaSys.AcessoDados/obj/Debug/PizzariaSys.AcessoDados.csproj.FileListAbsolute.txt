@@ -21,6 +21,15 @@ C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\Pizzaria
 C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
 C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
 C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll.config
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.Dominio.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.Dominio.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.xml
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.SqlServer.xml
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb

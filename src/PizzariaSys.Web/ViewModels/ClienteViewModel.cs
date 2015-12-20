@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PizzariaSys.Dominio;
+using PizzariaSys.Dominio.Entidades;
 
 namespace PizzariaSys.Web.ViewModels
 {

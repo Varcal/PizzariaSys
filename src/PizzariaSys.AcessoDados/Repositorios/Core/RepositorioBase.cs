@@ -1,9 +1,8 @@
 ﻿
-using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using PizzariaSys.AcessoDados.Contexto;
-using PizzariaSys.Dominio.Interfaces.Repositorios;
+using PizzariaSys.Dominio.Interfaces.Repositorios.Core;
 
 namespace PizzariaSys.AcessoDados.Repositorios.Core
 {
@@ -41,6 +40,11 @@ namespace PizzariaSys.AcessoDados.Repositorios.Core
         public IQueryable<T> ListarTodos()
         {
             return _db.Set<T>();
+        }
+
+        public void Commit()
+        {
+            _db.SaveChanges();
         }
     }
 }
