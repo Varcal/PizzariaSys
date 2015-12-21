@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{9D2C02E4-D4C9-4D54-B2F0-56415376C1AD}"
 EndProject
@@ -20,6 +20,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzariaSys.App", "src\PizzariaSys.App\PizzariaSys.App.csproj", "{002CF45D-ED62-408C-B7AA-95C80107E4B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzariaSys.Web", "src\PizzariaSys.Web\PizzariaSys.Web.csproj", "{D8EA04CC-75C3-495D-81A6-99679E960E2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - CrossCutting", "4.2 - CrossCutting", "{E02A445C-C00F-48B3-8F8C-739A38297D6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzariaSys.IoC", "src\PizzariaSys.IoC\PizzariaSys.IoC.csproj", "{D99D6318-9165-43E4-A32B-9DE4D1113178}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +47,10 @@ Global
 		{D8EA04CC-75C3-495D-81A6-99679E960E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8EA04CC-75C3-495D-81A6-99679E960E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8EA04CC-75C3-495D-81A6-99679E960E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99D6318-9165-43E4-A32B-9DE4D1113178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99D6318-9165-43E4-A32B-9DE4D1113178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99D6318-9165-43E4-A32B-9DE4D1113178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99D6318-9165-43E4-A32B-9DE4D1113178}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,5 +61,7 @@ Global
 		{512FAA98-DC66-4C15-9D2A-236D3C36B82B} = {DF87E05A-1148-4517-805D-32902B2B0969}
 		{002CF45D-ED62-408C-B7AA-95C80107E4B1} = {C7085070-8A28-4E2D-9E0C-0C89B3854A16}
 		{D8EA04CC-75C3-495D-81A6-99679E960E2E} = {9D2C02E4-D4C9-4D54-B2F0-56415376C1AD}
+		{E02A445C-C00F-48B3-8F8C-739A38297D6D} = {4792EF20-2EA6-44F0-9800-023FABAA362C}
+		{D99D6318-9165-43E4-A32B-9DE4D1113178} = {E02A445C-C00F-48B3-8F8C-739A38297D6D}
 	EndGlobalSection
 EndGlobal

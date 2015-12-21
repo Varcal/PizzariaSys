@@ -55,6 +55,7 @@ namespace PizzariaSys.Web.Controllers
             };
 
             _clienteServicos.Inserir(cliente);
+            _clienteServicos.Commit();
 
             return RedirectToAction("Index");
         }
