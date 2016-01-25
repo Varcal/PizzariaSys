@@ -1,33 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿
 using System.Web.Mvc;
-using Microsoft.Ajax.Utilities;
-using PizzariaSys.Dominio;
-using PizzariaSys.Dominio.Entidades;
-using PizzariaSys.Dominio.Interfaces;
-using PizzariaSys.Dominio.Interfaces.Servicos;
-using PizzariaSys.Dominio.Servicos;
-using PizzariaSys.Web.ViewModels;
-using Action = Antlr.Runtime.Misc.Action;
+using PizzariaSys.App.Interfaces;
+using PizzariaSys.App.ViewModels;
 
 namespace PizzariaSys.Web.Controllers
 {
     public class ClienteController : Controller
     {
-        private readonly IClienteServicos _clienteServicos;
+        private readonly IClienteAppService _clienteAppServico;
 
-        public ClienteController(IClienteServicos clienteServicos)
+        public ClienteController(IClienteAppService clienteAppServicos)
         {
-            _clienteServicos = clienteServicos;
+            _clienteAppServico = clienteAppServicos;
         }
 
 
         // GET: Cliente
         public ActionResult Index()
         {
-            var clientes = _clienteServicos.ListarTodos();
+            var clientes = _clienteAppServico.ListarTodos();
             return View(clientes);
         }
 
@@ -44,18 +35,10 @@ namespace PizzariaSys.Web.Controllers
             {
                 return View(model);
             }
+         
 
-            var cliente = new Cliente
-            {
-                Nome = model.Nome,
-                Logradouro = model.Logradouro,
-                Numero = model.Numero,
-                Bairro = model.Bairro,
-                Telefone = model.Telefone
-            };
-
-            _clienteServicos.Inserir(cliente);
-            _clienteServicos.Commit();
+            _clienteAppServico.Inserir(model);
+            
 
             return RedirectToAction("Index");
         }
@@ -69,28 +52,28 @@ namespace PizzariaSys.Web.Controllers
         [HttpPost]
         public ActionResult ConsultaTelefone(string telefone)
         {
-            var cliente = _clienteServicos.ListarClienteTelefone(telefone);
+            var clienteViewModel = _clienteAppServico.ListarClienteTelefone(telefone);
 
-            if (cliente == null)
+            if (clienteViewModel == null)
             {
                 return View();
             }
 
-            return View("Detalhes", new ClienteViewModel(cliente));
+            return View("Detalhes", clienteViewModel);
         }
 
         [HttpGet]
         public ActionResult Detalhes(int id)
         {
-            var cliente = _clienteServicos.BuscarId(id);
-            return View(new ClienteViewModel(cliente));
+            var clienteViewModel = _clienteAppServico.BuscarId(id);
+            return View(clienteViewModel);
         }
 
         [HttpGet]
         public ActionResult Editar(int id)
         {
-            var cliente = _clienteServicos.BuscarId(id);
-            return View(new ClienteViewModel(cliente));
+            var clienteViewModel = _clienteAppServico.BuscarId(id);
+            return View(clienteViewModel);
         }
 
         [HttpPost]
@@ -101,33 +84,25 @@ namespace PizzariaSys.Web.Controllers
                 return View(model);
             }
 
-            var cliente = new Cliente
-            {
-                Id = model.Id,
-                Nome = model.Nome,
-                Logradouro = model.Logradouro,
-                Numero = model.Numero,
-                Bairro = model.Bairro,
-                Telefone = model.Telefone
-            };
-
-            _clienteServicos.Alterar(cliente);
-
+            _clienteAppServico.Alterar(model);
+            
             return RedirectToAction("Index");
         }
 
         [HttpGet]
         public ActionResult Excluir(int id)
         {
-            var cliente = _clienteServicos.BuscarId(id);
-            return View(new ClienteViewModel(cliente));
+            var clienteViewModel = _clienteAppServico.BuscarId(id);
+
+            return View(clienteViewModel);
         }
 
         [HttpPost, ActionName("Excluir")]
         public ActionResult ExcluirConfirma(int id)
         {
-            var cliente = _clienteServicos.BuscarId(id);
-            _clienteServicos.Deletar(cliente);
+            var cliente = _clienteAppServico.BuscarId(id);
+            _clienteAppServico.Deletar(cliente);
+            
             return RedirectToAction("Index");
         }
     }

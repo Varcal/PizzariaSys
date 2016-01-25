@@ -133,3 +133,11 @@ D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\SimpleInjector
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\EntityFramework.xml
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\EntityFramework.SqlServer.dll
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\EntityFramework.SqlServer.xml
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\System.Web.Helpers.xml
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\System.Web.Mvc.xml
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\System.Web.Razor.xml
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\System.Web.WebPages.xml
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\Antlr3.Runtime.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\Newtonsoft.Json.xml

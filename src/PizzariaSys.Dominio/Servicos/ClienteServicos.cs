@@ -19,9 +19,9 @@ namespace PizzariaSys.Dominio.Servicos
             _clienteRepositorio = clienteRepositorio;
         }
 
-        public Cliente ListarClienteTelefone(string param)
+        public Cliente ListarClienteTelefone(string numeroTelefone)
         {
-            var cliente = _clienteRepositorio.ListarTodos().FirstOrDefault(x => x.Telefone == param);
+            var cliente = _clienteRepositorio.BuscarClientePorTelefone(numeroTelefone);
 
             return cliente;
         }

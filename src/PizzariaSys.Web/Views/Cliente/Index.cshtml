@@ -1,4 +1,4 @@
-﻿@model IEnumerable<PizzariaSys.Dominio.Entidades.Cliente>
+﻿@model IEnumerable<PizzariaSys.App.ViewModels.ClienteViewModel>
 
 @{
     ViewBag.Title = "Clientes";
@@ -35,9 +35,9 @@
             @Html.DisplayFor(modelItem => item.Telefone)
         </td>
         <td>
-            @Html.ActionLink("Editar", "Editar", new { id=item.Id }) |
-            @Html.ActionLink("Detlhes", "Detalhes", new { id=item.Id }) |
-            @Html.ActionLink("Excluir", "Excluir", new { id=item.Id })
+            @Html.ActionLink("Editar", "Editar", new { id = item.Id }) |
+            @Html.ActionLink("Detlhes", "Detalhes", new { id = item.Id }) |
+            @Html.ActionLink("Excluir", "Excluir", new { id = item.Id })
         </td>
     </tr>
 }

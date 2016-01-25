@@ -9,11 +9,11 @@ namespace PizzariaSys.AcessoDados.Repositorios.Core
 
     public class RepositorioBase<T>: IRepositorioBase<T> where T:class
     {
-        private EfContexto _db;
+        protected EfContexto _db;
 
-        public RepositorioBase()
+        public RepositorioBase(EfContexto db)
         {
-            _db = new EfContexto();
+            _db = db;
         }
        
 
@@ -21,6 +21,7 @@ namespace PizzariaSys.AcessoDados.Repositorios.Core
         {
             _db.Set<T>().Add(entidade);
         }
+
         public void Alterar(T entidade)
         {
            _db.Entry(entidade).State = EntityState.Modified;
@@ -36,7 +37,6 @@ namespace PizzariaSys.AcessoDados.Repositorios.Core
             return _db.Set<T>().Find(id);
         }
 
-       
         public IQueryable<T> ListarTodos()
         {
             return _db.Set<T>();

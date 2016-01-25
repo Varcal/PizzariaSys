@@ -8,3 +8,5 @@ D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\bin\Debug\Pizzaria
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.csprojResolveAssemblyReference.cache
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.dll
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.pdb
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.dll
+D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.pdb

@@ -6,6 +6,6 @@ namespace PizzariaSys.Dominio.Interfaces.Repositorios
 {
     public interface IClienteRepositorio: IRepositorioBase<Cliente>
     {
-
+        Cliente BuscarClientePorTelefone(string numeroTelefone);
     }
 }

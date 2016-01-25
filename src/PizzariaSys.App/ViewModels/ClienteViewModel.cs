@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using PizzariaSys.Dominio;
 using PizzariaSys.Dominio.Entidades;
 
-namespace PizzariaSys.Web.ViewModels
+namespace PizzariaSys.App.ViewModels
 {
     public class ClienteViewModel
     {

@@ -10,11 +10,12 @@
 {
 
     <div class="form-group">
-        @Html.Label("Digite o número do Telefone", htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.Label("Digite o número do Telefone", htmlAttributes: new { @class = "control-label col-md-4" })
         <div class="col-md-10">
-            @Html.Editor("telefone", new { htmlAttributes = new { @class = "form-control" } })            
+            @Html.Editor("telefone", new {htmlAttributes = new {@class = "form-control col-md-4" } })
+            <input class="btn btn-default" type="submit" value="Consultar" />
         </div>
     </div>
 
-    <p><input type="submit" value=" Consultar"/></p>
+    
 }

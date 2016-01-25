@@ -140,7 +140,6 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
-    <Compile Include="ViewModels\ClienteViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
@@ -200,10 +199,6 @@
     <ProjectReference Include="..\PizzariaSys.App\PizzariaSys.App.csproj">
       <Project>{002cf45d-ed62-408c-b7aa-95c80107e4b1}</Project>
       <Name>PizzariaSys.App</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PizzariaSys.Dominio\PizzariaSys.Dominio.csproj">
-      <Project>{512faa98-dc66-4c15-9d2a-236d3c36b82b}</Project>
-      <Name>PizzariaSys.Dominio</Name>
     </ProjectReference>
     <ProjectReference Include="..\PizzariaSys.IoC\PizzariaSys.IoC.csproj">
       <Project>{d99d6318-9165-43e4-a32b-9de4d1113178}</Project>
