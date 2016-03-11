@@ -13,7 +13,7 @@ namespace PizzariaSys.App.Interfaces
 
         void Inserir(ClienteViewModel model);
         void Alterar(ClienteViewModel model);
-        void Deletar(ClienteViewModel model);
+        void Deletar(int id);
         ClienteViewModel BuscarId(int id);
         IEnumerable<ClienteViewModel> ListarTodos();
         void Commit();

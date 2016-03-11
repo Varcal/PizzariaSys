@@ -100,8 +100,8 @@ namespace PizzariaSys.Web.Controllers
         [HttpPost, ActionName("Excluir")]
         public ActionResult ExcluirConfirma(int id)
         {
-            var cliente = _clienteAppServico.BuscarId(id);
-            _clienteAppServico.Deletar(cliente);
+            
+            _clienteAppServico.Deletar(id);
             
             return RedirectToAction("Index");
         }

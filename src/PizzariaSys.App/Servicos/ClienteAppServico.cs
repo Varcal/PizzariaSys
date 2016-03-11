@@ -56,18 +56,10 @@ namespace PizzariaSys.App.Servicos
             _clienteServicos.Commit();
         }
 
-        public void Deletar(ClienteViewModel model)
+        public void Deletar(int id)
         {
 
-            var cliente = new Cliente
-            {
-                Id = model.Id,
-                Nome = model.Nome,
-                Logradouro = model.Logradouro,
-                Numero = model.Numero,
-                Bairro = model.Bairro,
-                Telefone = model.Telefone
-            };
+            var cliente = _clienteServicos.BuscarId(id);
 
             _clienteServicos.Deletar(cliente);
             _clienteServicos.Commit();
