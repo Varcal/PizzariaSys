@@ -33,3 +33,17 @@ D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll.config
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.Dominio.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.Dominio.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csproj.CopyComplete
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb

@@ -31,3 +31,8 @@ D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Dominio\bin\Debug\Pizz
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.dll
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.pdb
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Dominio\bin\Debug\PizzariaSys.Dominio.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Dominio\bin\Debug\PizzariaSys.Dominio.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Dominio\obj\Debug\PizzariaSys.Dominio.pdb

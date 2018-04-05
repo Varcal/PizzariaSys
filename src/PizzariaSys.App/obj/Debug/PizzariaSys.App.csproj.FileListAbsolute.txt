@@ -10,3 +10,12 @@ D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\obj\Debug\Pizzaria
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.pdb
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.dll
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.csprojResolveAssemblyReference.cache
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.csproj.CoreCompileInputs.cache
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.csproj.CopyComplete
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.pdb

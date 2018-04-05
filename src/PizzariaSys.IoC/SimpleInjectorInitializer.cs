@@ -11,7 +11,7 @@ using PizzariaSys.IoC;
 using SimpleInjector;
 using SimpleInjector.Integration.Web;
 using SimpleInjector.Integration.Web.Mvc;
-using WebActivatorEx;
+//using WebActivatorEx;
 
 
 [assembly: PostApplicationStartMethod(typeof(SimpleInjectorInitializer), "Initialize")]

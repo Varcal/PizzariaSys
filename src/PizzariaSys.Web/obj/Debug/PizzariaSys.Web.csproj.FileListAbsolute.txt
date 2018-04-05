@@ -141,3 +141,37 @@ D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\System.Web.Web
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\System.Web.WebPages.Razor.xml
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\Antlr3.Runtime.pdb
 D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.Web\bin\Newtonsoft.Json.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.csprojResolveAssemblyReference.cache
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.csproj.CoreCompileInputs.cache
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Web.dll.config
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Web.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Web.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\EntityFramework.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\Microsoft.Owin.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\Newtonsoft.Json.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\Owin.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.App.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.IoC.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Dominio.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\SimpleInjector.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.AcessoDados.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.App.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.IoC.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.IoC.dll.config
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\EntityFramework.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\Microsoft.Owin.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.Dominio.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\SimpleInjector.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.AcessoDados.pdb
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\PizzariaSys.AcessoDados.dll.config
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.csproj.CopyComplete

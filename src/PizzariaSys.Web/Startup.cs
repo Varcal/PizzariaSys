@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using Microsoft.Owin;
 using Owin;
+using PizzariaSys.IoC;
 using PizzariaSys.Web;
 
 [assembly: OwinStartup(typeof(Startup))]
@@ -12,7 +13,7 @@ namespace PizzariaSys.Web
     {
         public void Configuration(IAppBuilder app)
         {
-
+            SimpleInjectorInitializer.Initialize();
         }
     }
 }
