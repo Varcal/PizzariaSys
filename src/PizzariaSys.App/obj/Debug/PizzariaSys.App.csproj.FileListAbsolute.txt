@@ -1,15 +1,3 @@
-C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.dll
-C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.pdb
-C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.csprojResolveAssemblyReference.cache
-C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.dll
-C:\Users\clebe\Documents\Visual Studio 2015\Visualizers\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.pdb
-D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.dll
-D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.pdb
-D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.csprojResolveAssemblyReference.cache
-D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.dll
-D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\obj\Debug\PizzariaSys.App.pdb
-D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.dll
-D:\Projetos .Net\CanalYoutube\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.pdb
 C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.dll
 C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.App.pdb
 C:\Users\varcal\Source\Repos\PizzariaSys\src\PizzariaSys.App\bin\Debug\PizzariaSys.Dominio.dll
